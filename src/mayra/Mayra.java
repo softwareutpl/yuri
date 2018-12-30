@@ -34,7 +34,7 @@ import java.util.Scanner;
 
  */
 
-public class Mayra{
+public class Mayra {
 
 
 
